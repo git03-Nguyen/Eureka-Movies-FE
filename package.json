@@ -1,9 +1,8 @@
 {
-  "name": "filmpire",
+  "name": "eureka-movies",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@alan-ai/alan-sdk-web": "^1.8.48",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.1",
@@ -37,7 +36,6 @@
     "deploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
